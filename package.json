@@ -1,6 +1,6 @@
 {
   "name": "privet-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Script to say privet",
   "main": "index.js",
   "scripts": {

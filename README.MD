@@ -1,3 +1,13 @@
 # Privet-JS
 
-* Script to say hello
+## Installation
+
+```bash
+npm i privet-js
+```
+
+## Usage
+
+```js
+require('privet-js');
+```
