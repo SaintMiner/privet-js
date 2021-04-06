@@ -1,0 +1,15 @@
+{
+  "name": "privet-js",
+  "version": "1.0.0",
+  "description": "Script to say privet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src"
+  },
+  "keywords": [
+    "privet"
+  ],
+  "author": "SaintMiner <dinden290@gmail.com> (https://github.com/SaintMiner)",
+  "license": "MIT"
+}
