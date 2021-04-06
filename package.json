@@ -11,5 +11,8 @@
     "privet"
   ],
   "author": "SaintMiner <dinden290@gmail.com> (https://github.com/SaintMiner)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "log-beautify": "^1.2.0"
+  }
 }

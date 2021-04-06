@@ -1,3 +1,10 @@
 const message = "Privet";
+const log = require('log-beautify');
 
-console.log(message);
+class Privet {
+    constructor(message) {
+        log.warning(message);
+    }
+}
+
+module.exports = new Privet(message);
