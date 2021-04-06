@@ -1,6 +1,6 @@
 {
   "name": "privet-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Script to say privet",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,14 @@
   "license": "MIT",
   "dependencies": {
     "log-beautify": "^1.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaintMiner/privet-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SaintMiner/privet-js/issues"
+  },
+  "homepage": "https://github.com/SaintMiner/privet-js#readme"
 }
